@@ -1,0 +1,26 @@
+{
+    "name": "Matthew Marshall",
+    "age": 78,
+    "address": {
+        "street": "Charles Forest",
+        "city": "Lake Sharonberg",
+        "state": "Maryland",
+        "zip": "32410"
+    },
+    "contact": {
+        "phone": "369-794-3611",
+        "servicePhone": "800232749"
+    },
+    "birthday": "1946-17-02",
+    "ip": "49.153.202.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose yourself child network. Federal during finish share.\nFeeling house staff building example clear. East add environment life. Than believe car color would feel.",
+        "bio": "Director military structure detail year. Audience report with now candidate oil each.\nPlace base page turn toward. Write present rock behind scientist."
+    },
+    "apiKey": "2fb2a7ae1da855aed50c922b28e56999689e18daf88d359e1202547ffd644b5f",
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
