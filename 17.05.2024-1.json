@@ -1,0 +1,26 @@
+{
+    "name": "Frank Turner",
+    "age": 18,
+    "address": {
+        "street": "Hughes Extension",
+        "city": "Kellyburgh",
+        "state": "Washington",
+        "zip": "62741"
+    },
+    "contact": {
+        "phone": "(317)233-9928",
+        "servicePhone": "800766872"
+    },
+    "birthday": "2006-21-12",
+    "ip": "177.74.207.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Town require television expect oil past price.\nPopular drive available toward ahead believe. Thing ground player skin note bed conference. Send later specific.",
+        "bio": "Boy fire speech society sound table. History glass environment likely Congress foot. Mr turn popular hold case remember."
+    },
+    "apiKey": "63b1054b7e105825073d622fc66317f540498c8fdc8160853c18e74896733902",
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
