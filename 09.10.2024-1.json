@@ -1,0 +1,26 @@
+{
+    "name": "George Adams",
+    "age": 60,
+    "address": {
+        "street": "Crosby Turnpike",
+        "city": "New Andrewhaven",
+        "state": "North Dakota",
+        "zip": "32981"
+    },
+    "contact": {
+        "phone": "(477)987-6402x13514",
+        "servicePhone": "800662730"
+    },
+    "birthday": "1964-14-09",
+    "ip": "40.28.17.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Western same usually experience section mission enough yourself. Cover treat staff strong strategy.\nColor hair still available ready. Seven whatever work son apply lot short executive.",
+        "bio": "Close start thought fear. Interest perhaps natural response until no vote. Beat family over even right rate.\nTerm bank imagine capital."
+    },
+    "apiKey": "ed293503ad10c4a8b76f9aed049b306fc538a74fe09f59777d5c7e84a861cfcc",
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
