@@ -1,0 +1,26 @@
+{
+    "name": "Angelica Davis",
+    "age": 44,
+    "address": {
+        "street": "Dawn Vista",
+        "city": "Timothyfort",
+        "state": "Utah",
+        "zip": "86164"
+    },
+    "contact": {
+        "phone": "+1-589-860-4525x7192",
+        "servicePhone": "800359623"
+    },
+    "birthday": "1980-20-01",
+    "ip": "137.248.215.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Probably site seem want. Country card population.\nWall price Republican both same sense. Focus plan spend certainly describe.",
+        "bio": "Generation car case a. Near wife against along over staff degree certainly.\nHealth choose provide shake memory. Perhaps check seek water.\nWhy oil sport cost. Face she bank attorney."
+    },
+    "apiKey": "f6cccd76c35c3567140db36128be9a89eb91eb10907a5a522f0670d97b278acb",
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
