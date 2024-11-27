@@ -1,0 +1,26 @@
+{
+    "name": "Terry Moses",
+    "age": 30,
+    "address": {
+        "street": "Kerri Cape",
+        "city": "Dayburgh",
+        "state": "Arizona",
+        "zip": "58932"
+    },
+    "contact": {
+        "phone": "(487)966-2938",
+        "servicePhone": "800467004"
+    },
+    "birthday": "1994-04-12",
+    "ip": "74.36.152.63",
+    "foo": "bar",
+    "profile": {
+        "about": "During marriage either follow alone road none. Tax decade fall position defense group.\nCase American land base hour skill environmental. Rate old man relationship. Area personal economy.",
+        "bio": "May mind foot experience event design. Realize arm war guess training policy task.\nNothing maintain various find. Recently girl particularly south strong. Treatment will boy top western economic."
+    },
+    "apiKey": "dccf785ba1dc49d434fb508dbc27a04206cf098149c12ba5e4909a5e99853bde",
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
