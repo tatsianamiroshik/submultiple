@@ -1,0 +1,26 @@
+{
+    "name": "Rodney Dixon",
+    "age": 36,
+    "address": {
+        "street": "Todd River",
+        "city": "Ginabury",
+        "state": "Utah",
+        "zip": "66157"
+    },
+    "contact": {
+        "phone": "900-207-4748",
+        "servicePhone": "800958024"
+    },
+    "birthday": "1988-26-05",
+    "ip": "164.224.251.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Sort free forget professional now just economic. Set whose point hair western article.\nSpecial prepare pay ask Republican. Item cost however deep. Situation need certainly question.",
+        "bio": "Pressure close concern meet player walk sort. Maybe may old sense.\nAhead yeah continue blood break land. Wife window source impact million natural police."
+    },
+    "apiKey": "c9d15cedbe17fd3b18f54bea753761a9c8ee0669752ac206b5025308b0d89725",
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
