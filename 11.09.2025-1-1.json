@@ -1,0 +1,25 @@
+{
+    "name": "Alfred Larsen",
+    "age": 56,
+    "address": {
+        "street": "Mendez Shore",
+        "city": "East Leonard",
+        "state": "Virginia",
+        "zip": "57779"
+    },
+    "contact": {
+        "phone": "+1-763-910-2278x755",
+        "servicePhone": "800091761"
+    },
+    "birthday": "1969-23-12",
+    "ip": "184.122.7.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop attorney case his third into like. Those page have main air police half. Prevent others throw seek way moment.",
+        "bio": "Country wind system test together point national. What rest manager late fear his part can.\nEveryone also by popular. Conference determine against meet position guy. Together play with stay soon."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
